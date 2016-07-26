@@ -1,6 +1,7 @@
 #  ---------------------------------------------------------------------------
 #
 #  Description:  This file holds all my BASH configurations and aliases
+#  Adopted from https://natelandau.com/my-mac-osx-bash_profile/
 #
 #  Sections:
 #  1.   Environment Configuration
