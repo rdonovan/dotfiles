@@ -40,6 +40,9 @@ export PATH=/usr/local/bin:/usr/local/sbin:$PATH
 # Alii
 alias ls='ls -GFh'
 alias ll='ls -laGfh'
+alias aws01='ssh ubuntu@aws01.toughmudder.com'
+alias rs01='ssh admin@rs01.toughmudder.com'
+alias rs16='ssh admin@rs16.toughmudder.com'
 
 # Git alii
 alias s="git status -s"
