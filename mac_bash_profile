@@ -153,6 +153,8 @@ alias sudo='sudo '                          # See http://www.shellperson.net/usi
 # alias edit='SUDO_EDITOR="open -FWne" sudo -e' # This helps me edit files that my user isn't the owner of
 alias edit_hosts='edit /etc/hosts'          # edit_hosts: Quick command to edit hosts file
 alias goto_web='cd ~/www'                   # goto_web: Quick jump to my web dir
+alias goto_vub='cd ~/vagrant-ubuntu'        # goto_vub: Quick jump to my vagrant-ubuntu dir
+alias goto_vpo='cd ~/vagrant-portal'        # goto_vub: Quick jump to my vagrant-portal dir
 alias killDS='find . -name *.DS_Store -type f -delete' # killDS: This alias recursively destroys all .DS_Store files in the folder I am currently in
 alias s="git status -s"                     # s: Quick git status command
 alias findn='find . -name '"${1}"''         # findn: Find files by name
